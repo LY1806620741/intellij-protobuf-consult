@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.ly1806620741.intellijprotobufconsult
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
